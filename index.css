@@ -1,0 +1,183 @@
+
+ .container{
+    /* background-color: antiquewhite; */
+    height: 100vh;
+    /* padding: 0;
+    margin: 0; */
+    background-image: url(./ingmar-h-iwPGTHBlYyw-unsplash.jpg);
+   
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+ .header{
+   background-color: rgba(0, 0, 0, 0.277);
+    height: 75px;
+    width: 98.8vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .footer{
+    height: 72px;
+    width: 98.8vw;
+    background-color: black;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    justify-content: space-between;
+
+    position: relative;
+    top: 190px;
+    border-radius: 10px;
+    color: white;
+    
+
+ }
+ .box1{
+    margin-top: 40px;
+    margin-left: 29px;
+ }
+ select{
+    position: relative;
+    right: 300px;
+    top:40px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    
+ }
+ .awesome{
+    position: relative;
+    right: 165px;
+    top:2px;
+    
+ }.icons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 49px;
+    position: relative;
+    bottom: 30px;
+    right: 23px;
+    
+ }
+ .body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .box1{
+    border: none;
+    outline:none;
+    background-color: transparent;
+    color: white;
+ }
+ .sign_up {
+    margin-left: 90px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 50px;
+ }
+ .side{
+    position: relative;
+    right: -60px;
+    width: 80px;
+    height: 30px;
+ }
+ #nones{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding: 0px;
+    font-size: large;
+ }
+ form{
+    width: 240px;
+ }
+ .photos{
+    width: 800px;
+    position: relative;
+    left: -210px;
+    top: 10px;
+    height: 30px;
+    text-align: start;
+    border: none;
+    outline: none;
+ }
+ #icon_search{
+    position: relative;
+    /* top:30px; */
+    bottom: 14px;
+    left: 550px;
+    /* box-shadow: 2px salmon; */
+    /* background-color: beige; */
+ }
+ .fick{
+    margin-left: -70px;
+    margin-bottom: 35px;
+    color: whitesmoke;
+ }
+ #dots{
+    border: none;
+    outline: none;
+    background-color: blue;
+    padding: auto;
+    margin-left:-90px;
+    position: relative;
+    top:48px;
+    
+ }
+ .small{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 80px;
+    position: relative;
+    top: 55px;
+    left: -90px;
+ }
+ .smalls{
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 45px;
+    left: -102px;
+    background-color: brown;
+    border-radius: 80px;
+ }
+ 
+  span{
+    margin-left: 80px;
+    position: relative;
+    bottom: 40px;
+  }
+  .same{
+   line-height: 60px;
+  }
+  #merge span{
+   line-height: 10px;
+  }
+  #down{
+   /* margin-top: 80px; */
+   position: relative;
+   top: 30px;
+  }
+  .anchor_tag{
+   position: relative;
+   top: 130px;
+   /* transition: 2s ease-in-out; */
+  }
+  a:hover{
+   margin-left: 300px;
+   transition: 2s ease-in;
+  }
+  #slide{
+   position: relative;
+   right: -40px;
+  }
+  .clickable{
+   width: 120px;
+   height: 30px;
+  }
